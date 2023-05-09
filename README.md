@@ -1,5 +1,8 @@
 # Predição de evasão escolar
 
+![]([https://tm.ibxk.com.br/2016/07/19/19183755227514.jpg?ims=1120x420](https://blog.conexia.com.br/wp-content/uploads/2022/06/Evasao-escolar.jpg))
+
+Este projeto visa construir um modelo de machine learning que consiga indicar se o aluno tem alta probabilidade de abandonar o curso ou não.
 
 # Requisitos
 1. [Python 3.6 ou maior](https://www.python.org/downloads/)
